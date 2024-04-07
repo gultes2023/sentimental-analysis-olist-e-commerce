@@ -1,7 +1,7 @@
 ## Consumer sentiment analysis in Brazilian e-commerce
 
 ## Researcher
--  [Gustavo Estevam Sena](https://github.com/Gultes)
+-  [Gustavo Estevam Sena](https://www.linkedin.com/in/gustavo-sena-57343456/)
 
 ## Objectives
 - Classify sentiments of Brazilian e-commerce consumers as positive or negative using the public dataset from OLIST: Brazilian E-commerce Dataset
