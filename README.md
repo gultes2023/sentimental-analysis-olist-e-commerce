@@ -19,13 +19,10 @@ The work involves the use of classification models in machine learning: Logistic
 # Clone this repository
 $ git clone https://github.com/gultes2023/sentimental-analysis-olist-e-commerce
 
-$With Python 3 installed on the machine:
-
-# Upload the notebook file to Google Colab
-# Execute each code block to import necessary dependencies
+# Upload the notebook file to Google Colab.
+# Execute the code block to import necessary dependencies.
+# Get the dataset and upload to Google Colab: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 # Perform preprocessing of models and visualize the results.
-
-
 ````
 ## Some results from running this project are as follows:
 
